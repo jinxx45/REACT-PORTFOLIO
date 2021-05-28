@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Farro:wght@300&family=Roboto+Mono:wght@200&display=swap");
+
+.header-image {
+  margin-top: 2rem;
+  position: relative;
+  background: url("../../Images/bg-red-computer.jpg");
+  background-size: cover;
+  height: 98vh;
+  width: 100%;
+}
+
+.header-content {
+  padding-top: 10rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: "Roboto Mono", monospace;
+  color: white;
+}
+
+.changing-text {
+  color: bisque;
+  font-weight: bolder;
+  font-size: 2rem;
+}
+
+.btn-dark:hover {
+  background-color: bisque;
+  color: black;
+}

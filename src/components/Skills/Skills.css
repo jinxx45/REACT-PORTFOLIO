@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Farro:wght@300&display=swap");
+
+.skills {
+  font-family: "Farro", sans-serif;
+  background-color: #f8f9fa;
+  height: 150%;
+}
+
+.right-bar-skills {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
+.left-bar-skills {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: row wrap;
+}

@@ -1,0 +1,38 @@
+.lh-card {
+  display: flex;
+  flex-direction: row;
+  margin: 2rem;
+  height: 14.6875rem;
+  width: 90%;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.lh-card:hover {
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+  border: 1px solid black;
+}
+
+.image-left-card {
+  height: 100%;
+  width: 40%;
+  position: relative;
+  background-position: center;
+  padding: 10px;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-content-header {
+  padding-left: 15px;
+}
+
+@media only screen and (max-width: 520px) {
+  .card-content-header {
+    padding-left: 0px;
+  }
+}

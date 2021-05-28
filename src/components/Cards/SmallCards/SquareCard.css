@@ -1,0 +1,20 @@
+.square-card {
+  height: 251px;
+  width: 251px;
+  background-color: #ffffff;
+  margin: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 12px;
+  padding: 5px;
+}
+
+.square-image {
+  height: 56%;
+  width: 80%;
+  background-position: center;
+  margin-bottom: 1rem;
+}

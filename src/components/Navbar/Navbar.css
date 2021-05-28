@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Farro:wght@300&display=swap");
+.nav-link {
+  font-family: "Farro", sans-serif;
+  text-transform: uppercase;
+  padding-top: 1.2rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: whitesmoke;
+  font-size: larger;
+  padding-left: 2rem;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: yellow;
+}
+
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show > .nav-link {
+  color: yellow;
+  font-weight: bold;
+}
+
+.bg-info {
+  background-color: #1f1724 !important;
+}
+
+.navbar-dark .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;..");
+}
