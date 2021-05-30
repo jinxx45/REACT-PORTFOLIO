@@ -15,6 +15,10 @@
   color: yellow;
 }
 
+.navbar-light .navbar-nav .nav-link:active {
+  color: yellow;
+}
+
 .navbar-light .navbar-nav .active > .nav-link,
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.show,
@@ -29,4 +33,24 @@
 
 .navbar-dark .navbar-toggler-icon {
   background-image: url("data:image/svg+xml;..");
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 13px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: lightcoral;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }
