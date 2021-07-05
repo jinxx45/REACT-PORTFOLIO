@@ -1,0 +1,14 @@
+.main {
+  height: 200px;
+  width: 600px;
+  background-color: royalblue;
+  border-radius: 20px;
+}
+
+.vertical-line {
+  border-left: 1px solid black;
+}
+
+.dp-image {
+  border-radius: 50%;
+}
