@@ -1,14 +1,17 @@
 .main {
-  height: 200px;
-  width: 600px;
-  background-color: royalblue;
+  height: 15rem;
+  width: 39rem;
+
   border-radius: 20px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 }
 
-.vertical-line {
-  border-left: 1px solid black;
+.contact-card {
+  font-size: 0.2rem;
 }
 
-.dp-image {
-  border-radius: 50%;
+.right-bar {
+  margin-left: -2.6rem;
 }
