@@ -2,6 +2,7 @@ import Navbar from './components/Navbar/Navbar'
 import HomePage from './components/Home/Home'
 import SkillsPage from './components/Skills/Skills'
 import ContactPage from './components/Contact/Contact'
+import CertificationsPage from './components/Certifications/certifications'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <HomePage/>
       <SkillsPage/>
       <ContactPage/>
+      <CertificationsPage/>
     </div>
   );
 }
