@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce842965.chunk.css",
+    "main.js": "/static/js/main.f346b334.chunk.js",
+    "main.js.map": "/static/js/main.f346b334.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c9eda263.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c9eda263.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e67fcd98.chunk.js": "/static/js/2.e67fcd98.chunk.js",
+    "static/js/2.e67fcd98.chunk.js.map": "/static/js/2.e67fcd98.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.ce842965.chunk.css.map": "/static/css/main.ce842965.chunk.css.map",
+    "static/js/2.e67fcd98.chunk.js.LICENSE.txt": "/static/js/2.e67fcd98.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/static/media/bg-red-computer.4020978e.jpg",
+    "static/media/bootstrap-logo.2abd2d69.svg": "/static/media/bootstrap-logo.2abd2d69.svg",
+    "static/media/brand png.e7451b15.png": "/static/media/brand png.e7451b15.png",
+    "static/media/c++logo.c0a0d2fd.png": "/static/media/c++logo.c0a0d2fd.png",
+    "static/media/c-logo.83dfa097.png": "/static/media/c-logo.83dfa097.png",
+    "static/media/coding.2ecf480b.jpg": "/static/media/coding.2ecf480b.jpg",
+    "static/media/database.faca6325.jpg": "/static/media/database.faca6325.jpg",
+    "static/media/designtools.74fa8e1c.jpg": "/static/media/designtools.74fa8e1c.jpg",
+    "static/media/dp.5fb80320.jpg": "/static/media/dp.5fb80320.jpg",
+    "static/media/figma-1-logo.46400ab8.png": "/static/media/figma-1-logo.46400ab8.png",
+    "static/media/framewoks.a8a6fb7a.jpg": "/static/media/framewoks.a8a6fb7a.jpg",
+    "static/media/fullstack-dev.c4bbd52c.png": "/static/media/fullstack-dev.c4bbd52c.png",
+    "static/media/illustrator logo.260849c3.png": "/static/media/illustrator logo.260849c3.png",
+    "static/media/mariadb-logo.1d7a68aa.png": "/static/media/mariadb-logo.1d7a68aa.png",
+    "static/media/material-ui-logo.5b2d8a0a.png": "/static/media/material-ui-logo.5b2d8a0a.png",
+    "static/media/mobileapp.62b89359.jpg": "/static/media/mobileapp.62b89359.jpg",
+    "static/media/mongodb.41634622.png": "/static/media/mongodb.41634622.png",
+    "static/media/mysql logo.6e42b2a0.png": "/static/media/mysql logo.6e42b2a0.png",
+    "static/media/ps-logo.9e7408df.png": "/static/media/ps-logo.9e7408df.png",
+    "static/media/pythonlogo.f0c9d647.png": "/static/media/pythonlogo.f0c9d647.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9eda263.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e67fcd98.chunk.js",
+    "static/css/main.ce842965.chunk.css",
+    "static/js/main.f346b334.chunk.js"
+  ]
+}
